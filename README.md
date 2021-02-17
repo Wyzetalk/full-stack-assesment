@@ -15,7 +15,7 @@
 
 ## What is expected?
 
-THis assessment requires that you build a react + redux application with an express api bff layer to obfuscate the API key from the client-side, which will allow a user to be able to search for any artist within the Deezer API
+This assessment requires that you build a react + redux application with an express api middle layer to interface with the deezer API on the clients behalf.
 
 ### Optional Extras
 
