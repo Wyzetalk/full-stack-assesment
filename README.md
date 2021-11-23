@@ -9,13 +9,13 @@
 
 ## Please use the following tools as part of your solution:
 
-* ReactJS
-* Typescript (optional)
-* NodeJS/Express
+* ReactJS / Angular
+* Typescript
+* NodeJS (with Express)
 
 ## What is expected?
 
-This assessment requires that you build a react + redux application with an express api middle layer to interface with the deezer API on the clients behalf.
+This assessment requires that you build a react (or angular) application with an express api middle layer to interface with the deezer API on the clients behalf.
 
 ### Optional Extras
 
@@ -28,7 +28,6 @@ The following are completely optional, but will count to your advantage if any a
 * Unit tests (using jest)
 * Using @material-ui.
 * Usage of styled-components
-* Redux
 * React hooks
 * Integrate with a MongoDB (optional)
 
@@ -57,7 +56,7 @@ If a user clicks on one of the artists they should be navigated to a details pag
 
 ## Supporting documentation
 
-You will need to generate and API key from deezer, this as well as all the documentation are available [HERE](https://developers.deezer.com/api)
+The deezer API documentation are available [HERE](https://developers.deezer.com/api)
 
 ## What should be part of your solution?
 
