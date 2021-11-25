@@ -33,7 +33,7 @@ The following are completely optional, but will count to your advantage if any a
 
 ### Search Results
 
-The user should see a list/grid of search results displaying a list of mathcing results, paging is not required.
+The user should see a list/grid of search results displaying a list of matching results, paging is not required.
 
 Each result should display the following:
 
